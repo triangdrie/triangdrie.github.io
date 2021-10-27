@@ -20,6 +20,8 @@ This is the course I took in the spring of 2021.
 
 The course covered the computation of Gröbner bases, Hilbert's Nullstellensatz, and dimension theory in affine algebraic geometry.
 
+Here are the notes I took while taking this course. 
+
 
 
 
