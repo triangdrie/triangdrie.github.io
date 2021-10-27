@@ -15,7 +15,7 @@ author_profile: true
 {% endfor %}-->
 
 
-Introduction to Computational Algebraic Geometry
+## Introduction to Computational Algebraic Geometry
 =====
 
 
@@ -23,5 +23,5 @@ Introduction to Computational Algebraic Geometry
 
 
 
-Algebraic Geometry
+## Algebraic Geometry
 =====
