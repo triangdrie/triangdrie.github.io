@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Introduction to Computational Algebraic Geometry"
 excerpt: "Short description of portfolio item number 1"
 collection: notes
 ---
