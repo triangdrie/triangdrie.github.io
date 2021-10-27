@@ -22,7 +22,7 @@ author_profile: true
 * Algebra III: Commutative Algebra (Prof. Yongquan Hu).[Assignments and Solutions](https://triangdrie.github.io/files/com_alg_assign.pdf).
 * Riemann Surfaces (Prof. Fusheng Deng). 
 * Algebraic Topology I: Homotopy Theory (Prof. Jianzhong Pan). [Final Project](https://triangdrie.github.io/files/diffeo_groups.pdf).
-* Algebraic Topology II: K-Theory (Prof. Yang Su)
+* Algebraic Topology II: K-Theory (Prof. Yang Su). [Final Project](https://triangdrie.github.io/files/swans_thm.pdf)
 
 
 
