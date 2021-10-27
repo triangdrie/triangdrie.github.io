@@ -16,11 +16,11 @@ author_profile: true
 
 
 ## Introduction to Computational Algebraic Geometry
-This is the course I took in the spring of 2021. 
+This is a course I took in the spring of 2021. 
 
 The course covered the computation of Gröbner bases, Hilbert's Nullstellensatz, and dimension theory in affine algebraic geometry.
 
-Here are the notes I took while taking this course. 
+Here are [notes](http://triangdrie.github.io/files/comput_ag_notes.pdf) I took while taking this course. 
 
 
 
