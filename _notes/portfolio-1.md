@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Computational Algebraic Geometry"
-excerpt: "Short description of portfolio item number 1"
+excerpt: "test"
 collection: notes
 ---
 
