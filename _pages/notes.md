@@ -18,7 +18,12 @@ author_profile: true
 ## Spring 2021
 
 * An Introduction to Computational Algebraic Geometry (Prof. Dingkang Wang). [Notes](http://triangdrie.github.io/files/comput_ag_notes.pdf). 
-* Algebra II (Prof Xu Shen).  
+* Algebra II: Homological Algebra (Prof. Xu Shen).
+* Algebra III: Commutative Algebra (Prof. Yongquan Hu).
+* Riemann Surfaces (Prof. Fusheng Deng). 
+* Algebraic Topology I: Homotopy Theory (Prof. Jianzhong Pan)
+* Algebraic Topology II: K-Theory (Prof. Yang Su)
+
 
 
 
@@ -26,6 +31,8 @@ author_profile: true
 
 
 ## Fall 2020
-This is a course I took in Fall 2020.
+* Algebraic Geometry (Weizhe Zheng).
+
+* Algebraic Groups
 
 
