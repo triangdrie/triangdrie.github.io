@@ -33,6 +33,6 @@ author_profile: true
 ## Fall 2020
 * Algebraic Geometry (Prof. Weizhe Zheng).[Assignments and Solutions](https://triangdrie.github.io/files/ag_assign.pdf) (incomplete). 
 
-* Algebraic Groups (Prof. Ming Fang). 
+* Algebraic Groups (Prof. Ming Fang).[Notes](https://triangdrie.github.io/files/lie_notes.pdf). [Assignments and Solutions](https://triangdrie.github.io/files/lie_assign.pdf).
 
 
