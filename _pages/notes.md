@@ -38,6 +38,9 @@ author_profile: true
 
 
 ## 2018-2019
+* [Notes](https://triangdrie.github.io/files/cft_notes_chinese.pdf) for conformal field theory, in Chinese, covering the first six chapters of  Di Francesco P, Mathieu P, Senechal D. *Conformal Field Theory*. New York: Springer-Verlag; 1997.
 
+
+* [Reading notes](https://triangdrie.github.io/files/chinese_notes_2018.pdf) I took in Chinese during 2018-2019, a hodgepodge of various topics, including quantum field theory, particle physics, category theory, homological algebra, *etc.*.
 
 
